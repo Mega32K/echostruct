@@ -1,0 +1,10 @@
+.setup/
+**/.gradle/
+**/build/
+**/run/
+**/run-data/
+**/repo/
+**/mcmodsrepo/
+.idea/
+*.iml
+dist/
